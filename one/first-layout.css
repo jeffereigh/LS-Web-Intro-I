@@ -1,0 +1,25 @@
+body {
+  background-color: yellow;
+  margin: 0;
+}
+
+#red {
+  background-color: red;
+  width: auto;
+  height: 72px;
+}
+
+
+#blue {
+  background-color: blue;
+  height: 1000px;
+  width: 80%;
+  background-position: center;
+  margin: auto;
+}
+
+#green {
+  background-color: green;
+  width: auto;
+  height: 72px;
+}

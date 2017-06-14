@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+#red{
+  background-color: red;
+  height: 100px;
+  width: 100%;
+}
+
+#container {
+  width: 100%;
+  height: 800px;
+}
+
+#blue {
+  background-color: blue;
+  float: left;
+  width: 33%;
+  height: 100%;
+}
+
+#purple {
+  background-color: purple;
+  display: inline-block;
+  margin: 0 auto;
+  width: 34%;
+  height: 100%;
+}
+
+#yellow {
+  background-color: yellow;
+  float: right;
+  width: 33%;
+  height: 100%;
+}
+
+#green{
+  background-color: green;
+  height: 100px;
+  width: 100%;
+}

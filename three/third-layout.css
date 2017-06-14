@@ -1,0 +1,96 @@
+body{
+  margin: 0px;
+}
+
+#purple {
+  background-color: purple;
+  height: 150px;
+  width: 100%;
+}
+
+#red {
+  background-color: red;
+  height: 1000px;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px 0px;
+
+}
+
+
+#blue1 {
+  background-color: blue;
+  width: 70%;
+  height: 30%;
+  margin: 3% auto 0% auto;
+  padding: 1px;
+}
+
+#yellow1 {
+  background-color: yellow;
+  width: 20%;
+  height: 50%;
+  margin-top: 5%;
+  margin-left: 5%;
+  float: left;
+}
+
+#green1 {
+  background-color: green;
+  width: 65%;
+  height: 65%;
+  margin-top: 5%;
+  margin-right: 5%;
+  float: right;
+}
+
+
+#blue2 {
+  background-color: blue;
+  width: 70%;
+  height: 30%;
+  margin: 3% auto 0% auto;
+}
+
+#yellow2 {
+  background-color: yellow;
+  width: 20%;
+  height: 50%;
+  margin-top: 5%;
+  margin-left: 5%;
+  float: left;
+}
+
+#green2 {
+  background-color: green;
+  width: 65%;
+  height: 65%;
+  margin-top: 5%;
+  margin-right: 5%;
+  float: right;
+}
+
+#blue3 {
+  background-color: blue;
+  width: 70%;
+  height: 30%;
+  margin: 3% auto 0% auto;
+}
+
+#yellow3 {
+  background-color: yellow;
+  width: 20%;
+  height: 50%;
+  margin-top: 5%;
+  margin-left: 5%;
+  float: left;
+}
+
+#green3 {
+  background-color: green;
+  width: 65%;
+  height: 65%;
+  margin-top: 5%;
+  margin-right: 5%;
+  float: right;
+}
